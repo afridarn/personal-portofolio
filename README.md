@@ -2,7 +2,7 @@
 
 A personal portfolio template built with **Next.js 15** and **TypeScript**, styled with an aesthetic — bold borders, hard shadows, and a punchy color palette.
 
-**Live demo:** [afridarn.github.io/personal-portfolio](https://afridarn.github.io/personal-portfolio)
+**Live demo:** [afridarn.github.io/personal-portfolio](https://afridarn.github.io/personal-portfolio/)
 
 ![Next.js](https://img.shields.io/badge/Next.js-15-black?style=flat-square)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=flat-square)
