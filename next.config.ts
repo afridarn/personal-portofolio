@@ -6,11 +6,11 @@ const REPO_NAME = "personal-portofolio";
 
 const nextConfig: NextConfig = {
   output: "export",
-  basePath: isProd ? `/${REPO_NAME}` : "",
-  assetPrefix: isProd ? `/${REPO_NAME}/` : "",
+  basePath: "",
+  assetPrefix: "",
   images: { unoptimized: true },
   env: {
-    NEXT_PUBLIC_BASE_PATH: isProd ? `/${REPO_NAME}` : "",
+    NEXT_PUBLIC_BASE_PATH: "",
   },
 };
 
