@@ -1,0 +1,118 @@
+{
+  "name": "Afrida Rohmatin",
+  "initials": "YN",
+  "role": "Software Developer",
+  "location": "Jakarta, Indonesia",
+  "bio": "Software developer based in Jakarta and Surabaya. I turn caffeine into clean code because messy code ruins my mood. ",
+  "availableForWork": true,
+  "experiences": [
+    {
+      "id": "exp-1",
+      "company": "PT Huawei Tech Investment",
+      "role": "Intermediate Assistant of Product Technology",
+      "period": "May 2024 — Now",
+      "description": "Led end-to-end product delivery from requirements gathering to deployment while providing 24/7 customer support to ensure reliable operations and high client satisfaction",
+      "cardColor": "bg"
+    },
+    {
+      "id": "exp-2",
+      "company": "Direktorat Pengembangan Teknologi dan Sistem Informasi ITS",
+      "role": "Frontend Developer Internship",
+      "period": "Jul 2023 - Aug 2023",
+      "description": "Refactored MyITS StudentConnect from Laravel to Next.js, contributing 39,000+ lines of code and 300+ GitHub commits, while improving Lighthouse scores by an average of 15 points across key performance metrics",
+      "cardColor": "accent1"
+    },
+    {
+      "id": "exp-3",
+      "company": "Perempuanmasadepan.id",
+      "role": "Web Developer Internship",
+      "period": "Feb 2023 — May 2023",
+      "description": "Delivered a 10-page corporate website within 3 months alongside a 3-member team, ensuring consistent branding and an optimized user experience",
+      "cardColor": "accent3"
+    },
+    {
+      "id": "exp-4",
+      "company": "PT Adma Digital Solusi",
+      "role": "Backend Developer Internship",
+      "period": "Aug 2022 — Dec 2022",
+      "description": "Contributed to 6 software projects, developing RESTful APIs, optimizing database performance, and collaborating cross-functionally to deliver scalable and user-friendly solutions",
+      "cardColor": "accent2"
+    },
+    {
+      "id": "exp-5",
+      "company": "Departemen Teknologi Informasi ITS",
+      "role": "Assistant Lecturer Integration Programming",
+      "period": "Feb 2023 - Jul 2023",
+      "description": "Assisted in teaching 2 integration programming courses for 62 students, providing technical guidance and helping improve problem-solving and coding proficiency",
+      "cardColor": "accent1"
+    }
+  ],
+  "projects": [
+    {
+      "id": "proj-1",
+      "name": "Microscopic Mosquito Larvae Classifier",
+      "description": "Web-based application using Convolutional Neural Networks (CNN) to automatically identify and classify mosquito larvae species from microscopic images",
+      "tags": ["EJS", "Express", "Tailwind"],
+      "cardColor": "bg",
+      "url": "https://github.com/afridarn/interface-web-tugas-akhir"
+    },
+    {
+      "id": "proj-2",
+      "name": "MyITS StudentConnect",
+      "description": "ITS Portofolio Based Student Information System. I was implemented Golang + Next.Js migration from the PHP Laravel codebase.",
+      "tags": ["Next.js", "TypeScript", "Tailwind"],
+      "cardColor": "accent2",
+      "url": "https://github.com/afridarn/myits-studentconnect-fe"
+    },
+    {
+      "id": "proj-3",
+      "name": "ProryVision",
+      "description": "A web-based dashboard procurement inventory project designed to streamline inventory management processes",
+      "tags": ["Figma"],
+      "cardColor": "accent5",
+      "url": "https://www.figma.com/proto/MiIf5Ymda5ciPt9AkFv878?node-id=256-59&t=Axj23iNXadS0n01M-6"
+    }
+  ],
+  "skills": [
+    { "name": "HTML", "chipColor": "accent2" },
+    { "name": "CSS", "chipColor": "accent2" },
+    { "name": "BootStrap", "chipColor": "bg" },
+    { "name": "TailwindCSS", "chipColor": "accent4" },
+    { "name": "JavaScript", "chipColor": "accent4" },
+    { "name": "TypeScript", "chipColor": "bg" },
+    { "name": "Node.js", "chipColor": "bg" },
+    { "name": "Express.js", "chipColor": "accent3" },
+    { "name": "jquery", "chipColor": "bg" },
+    { "name": "React", "chipColor": "accent3" },
+    { "name": "Next.js", "chipColor": "bg" },
+    { "name": "Laravel", "chipColor": "bg" },
+    { "name": "PHP", "chipColor": "accent1" },
+    { "name": "MySQL", "chipColor": "accent1" },
+    { "name": "git", "chipColor": "bg" },
+    { "name": "GitHub", "chipColor": "bg" },
+    { "name": "GitLab", "chipColor": "accent5" }
+  ],
+  "contact": [
+    {
+      "id": "contact-email",
+      "label": "Email",
+      "value": "afridarohmatin@gmail.com",
+      "icon": "mail",
+      "href": "mailto:afridarohmatin@gmail.com"
+    },
+    {
+      "id": "contact-github",
+      "label": "GitHub",
+      "value": "github.com/afridarn",
+      "icon": "github",
+      "href": "https://github.com/afridarn"
+    },
+    {
+      "id": "contact-linkedin",
+      "label": "LinkedIn",
+      "value": "linkedin.com/in/afridarohmatin",
+      "icon": "linkedin",
+      "href": "https://linkedin.com/in/afridarohmatin"
+    }
+  ]
+}
