@@ -28,7 +28,7 @@ export default function Hero({ data }: HeroProps) {
         </div>
       </div>
       <div className="hero-avatar">
-        <img src="/avatar.png" alt={data.name} />
+        <img src={`${process.env.NEXT_PUBLIC_BASE_PATH ?? ""}/avatar.png`} alt={data.name} />
       </div>
     </section>
   );

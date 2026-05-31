@@ -9,6 +9,9 @@ const nextConfig: NextConfig = {
   basePath: isProd ? `/${REPO_NAME}` : "",
   assetPrefix: isProd ? `/${REPO_NAME}/` : "",
   images: { unoptimized: true },
+  env: {
+    NEXT_PUBLIC_BASE_PATH: isProd ? `/${REPO_NAME}` : "",
+  },
 };
 
 export default nextConfig;
